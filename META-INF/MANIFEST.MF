@@ -1,0 +1,20 @@
+Manifest-Version: 1.0
+Specification-Title:    Oracle JDBC driver classes for use with JDK14
+Sealed: true
+Created-By: 1.4.2_08 (Sun Microsystems Inc.)
+Implementation-Title:   ojdbc14.jar
+Specification-Vendor:   Oracle Corporation
+Specification-Version:  Oracle JDBC Driver version - "10.2.0.1.0XE"
+Implementation-Version: Oracle JDBC Driver version - "10.2.0.1.0XE"
+Implementation-Vendor:  Oracle Corporation
+Implementation-Time:    Wed Jan 25 01:28:31 2006
+
+Name: oracle/sql/converter/
+Sealed: false
+
+Name: oracle/sql/
+Sealed: false
+
+Name: oracle/sql/converter_xcharset/
+Sealed: false
+
